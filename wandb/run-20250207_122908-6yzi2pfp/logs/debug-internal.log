@@ -1,0 +1,17 @@
+{"time":"2025-02-07T12:29:10.663873915+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/tungnt/Documents/docker_ai2/wandb/run-20250207_122908-6yzi2pfp/logs/debug-core.log"}
+{"time":"2025-02-07T12:29:11.216166858+07:00","level":"INFO","msg":"created new stream","id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:11.216266728+07:00","level":"INFO","msg":"stream: started","id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:11.21635022+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:11.216404008+07:00","level":"INFO","msg":"handler: started","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:11.217021407+07:00","level":"INFO","msg":"sender: started","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:11.678844316+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T12:29:14.135774532+07:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-07T12:29:16.049359246+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-07T12:29:16.050011444+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-07T12:29:17.049819379+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.720238264,"progress":"47B/47B"},{"desc":"uploading config.yaml","runtime_seconds":0.472779252,"progress":"570B/570B"}],"total_operations":2}}
+{"time":"2025-02-07T12:29:17.289234521+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-07T12:29:18.638188526+07:00","level":"INFO","msg":"stream: closing","id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:18.638254736+07:00","level":"INFO","msg":"handler: closed","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:18.638284768+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:18.638347014+07:00","level":"INFO","msg":"sender: closed","stream_id":"6yzi2pfp"}
+{"time":"2025-02-07T12:29:18.638438954+07:00","level":"INFO","msg":"stream: closed","id":"6yzi2pfp"}

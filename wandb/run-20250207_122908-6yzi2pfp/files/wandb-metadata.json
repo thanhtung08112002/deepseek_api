@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-6.8.0-52-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-02-07T05:29:10.647505Z",
+  "program":  "/home/tungnt/Documents/docker_ai2/main.py",
+  "codePath":  "main.py",
+  "email":  "thanhtungx081102@gmail.com",
+  "root":  "/home/tungnt/Documents/docker_ai2",
+  "host":  "tungnt1908",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "main.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce GTX 1060 6GB",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "514907533312",
+      "used":  "106040025088"
+    }
+  },
+  "memory":  {
+    "total":  "16697122816"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1060 6GB",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  1280,
+      "architecture":  "Pascal"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

@@ -1,0 +1,17 @@
+{"time":"2025-02-07T14:10:03.751618147+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/tungnt/Documents/docker_ai2/wandb/run-20250207_141003-ub3vngkq/logs/debug-core.log"}
+{"time":"2025-02-07T14:10:03.855524722+07:00","level":"INFO","msg":"created new stream","id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:03.855544175+07:00","level":"INFO","msg":"stream: started","id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:03.855586865+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:03.855645524+07:00","level":"INFO","msg":"sender: started","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:03.855682534+07:00","level":"INFO","msg":"handler: started","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:04.379441636+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T14:10:05.999826085+07:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-07T14:10:06.645221482+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-07T14:10:06.645804372+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-07T14:10:07.472996836+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-07T14:10:07.6457531+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 0-0","runtime_seconds":0.172657438}],"total_operations":1}}
+{"time":"2025-02-07T14:10:08.877498496+07:00","level":"INFO","msg":"stream: closing","id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:08.877514696+07:00","level":"INFO","msg":"handler: closed","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:08.877536895+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:08.877552914+07:00","level":"INFO","msg":"sender: closed","stream_id":"ub3vngkq"}
+{"time":"2025-02-07T14:10:08.877585886+07:00","level":"INFO","msg":"stream: closed","id":"ub3vngkq"}
